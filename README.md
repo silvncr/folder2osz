@@ -4,7 +4,7 @@
 <hr>
 
 # `folder2osz`
-### *osu!* Beatmap Compilation Tool
+### *osu!* beatmap compilation tool
 ###### [Download](https://github.com/silvncr/folder2osz/releases/latest)
 
 <hr>
@@ -12,7 +12,23 @@
 
 ## Build
 
-On Windows 10/11, run `py2exe.bat`, then find `folder2osz.exe` in the `dist` folder.
+### Build to `exe`
+
+On Windows 10/11, run `build.bat`, then find `folder2osz.exe` in the `dist` folder.
+
+```sh
+$ git clone https://github.com/silvncr/folder2osz.git
+```
+
+### Python script
+
+Alternatively, have `app/main.py` take the place of `folder2osz.exe`.
+
+```sh
+$ git clone https://github.com/silvncr/folder2osz.git
+$ cd folder2osz
+$ python -m pip install -r requirements.txt
+```
 
 ## Usage
 

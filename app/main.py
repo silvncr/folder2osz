@@ -86,15 +86,13 @@ try:
 			found_valid_files = True
 
 		except Exception as e:
-			raise e
-			#print(f' {c.red}[ERROR-4]{c.reset} | {e}')
+			print(f' {c.red}[ERROR-4]{c.reset} | {e}')
 
 except KeyboardInterrupt:
 	print(f' {c.yellow}[NOTICE]{c.reset}  | Interrupted by user.')
 
 except Exception as e:
-	raise e
-	#print(f' {c.red}[ERROR-5]{c.reset} | {e}')
+	print(f' {c.red}[ERROR-5]{c.reset} | {e}')
 
 if not found_valid_files:
 	print(f' {c.yellow}[NOTICE]{c.reset}  | No valid files/folders found.')
