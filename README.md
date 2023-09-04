@@ -63,3 +63,5 @@ Each folder will be named after the `osz` file it was created from. If you're do
 ## Contributing
 
 If you want to contribute to this project, feel free to fork it and submit a pull request. If you have any questions, you can contact me on Discord at `@silvncr`.
+
+For testing purposes, error messages are numbered to make it easier to identify them. If you encounter an error, please include the error number in your bug report.
