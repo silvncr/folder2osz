@@ -12,11 +12,15 @@
 
 ## About
 
-`folder2osz` is a tool for compiling beatmaps for the rhythm game *osu!*. It allows the user to convert a folder containing the necessary files for a beatmap into a `.osz` file that can be imported into the game, or vice versa. The program can be built into an executable file or run as a Python script.
+`folder2osz` **is**:
 
-This program makes it easier to download beatmaps from online sources, create backups of beatmaps, or share beatmaps with other players.
+- A tool for compiling beatmaps for the rhythm game *osu!*, allowing the user to convert a folder containing the necessary files for a beatmap into a `.osz` file that can be imported into the game, or vice versa. This makes it easier to download beatmaps from online sources, create backups of beatmaps, or share beatmaps with other players.
+- Able to be built into an executable file or run as a Python script.
 
-`folder2osz` is not affiliated with *osu!* or its creator, Dean "peppy" Herbert. For official information about *osu!*, visit [osu.ppy.sh](https://osu.ppy.sh).
+`folder2osz` **is not**:
+
+- Necessarily perfect. This program is still in development, and there may be bugs. If you encounter any bugs, please report them in the [Issues](https://github.com/silvncr/folder2osz/issues) tab. For contribution information, see [Contributing](#contributing).
+- Affiliated with *osu!* or its creator, Dean "peppy" Herbert. For official information about *osu!*, visit [osu.ppy.sh](https://osu.ppy.sh).
 
 ## Features
 
