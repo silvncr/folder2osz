@@ -19,7 +19,7 @@
 
 `folder2osz` **is not**:
 
-- Necessarily perfect. This program is still in development, and there may be bugs. If you encounter any bugs, please report them in the [Issues](https://github.com/silvncr/folder2osz/issues) tab. For contribution information, see [Contributing](#contributing).
+- Necessarily perfect. This program is still in development, and there may be bugs. If you encounter any bugs, please report them in the [Issues](https://github.com/silvncr/folder2osz/issues) tab. If you want to contribute, feel free to submit a pull request.
 - Affiliated with *osu!* or its creator, Dean "peppy" Herbert. For official information about *osu!*, visit [osu.ppy.sh](https://osu.ppy.sh).
 
 ## Features
@@ -72,9 +72,3 @@ Mode: [c]ompile or [e]xtract
 The program will generate a folder for every `.osz` file in the current folder and its subfolders. Folders generated from subfolders will be placed in the same subfolder.
 
 Each folder will be named after the `.osz` file it was created from. If you're downloading beatmaps from an online source, the `.osz` file will usually be named after the map.
-
-## Contributing
-
-If you want to contribute to this project, feel free to fork it and submit a pull request. If you have any questions, you can contact me on Discord at `@silvncr`.
-
-For testing purposes, error messages are numbered to make it easier to identify them. If you encounter an error, please include the error number in your bug report.
